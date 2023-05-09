@@ -1,0 +1,23 @@
+1. Make GET call to get some companies.
+curl -o get some companies.json https://fakerapi.it/api/v1/companies?
+
+2. Make GET call to get 50 persons with English names who were born after 1994. 
+curl -o 50 English people.json https://fakerapi.it/api/v1/persons?_quantity=50&_birthday_start=1995-01-01&_locale=en_EN
+
+3. Make GET call to get 5 German companies. 
+curl -o 5_German_companies.json https://fakerapi.it/api/v1/companies?_quantity=5&_locale=de_DE
+
+4. Make GET call to retrieve 60 credit cards of Spanish people.
+curl -o 60_Spanish_credit_card_companies.json https://fakerapi.it/api/v1/credit_cards?_quantity=60&_locale=es_ES
+
+5. Make GET call to retrieve 47 products that cost higher than 50€.
+curl -o 60_Spanish_credit_card_companies.json https://fakerapi.it/api/v1/credit_cards?_quantity=60&_locale=es_ES
+
+6. Make GET call to retrieve 10 Custom objects with "pokemon", "website", and "name" fields.
+curl -o 10_customer.json https://fakerapi.it/api/v1/custom?_quantity=10&customfield1=name&customfield2=pokemon&customfield3=website
+
+
+
+
+
+
