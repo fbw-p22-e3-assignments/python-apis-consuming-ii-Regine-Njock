@@ -1,0 +1,57 @@
+{
+    "status": "OK",
+    "code": 200,
+    "total": 10,
+    "data": [
+        {
+            "customfield1": "Makenzie Hodkiewicz",
+            "customfield2": "Clefairy",
+            "customfield3": "harris.net"
+        },
+        {
+            "customfield1": "Aracely Kilback",
+            "customfield2": "Noivern",
+            "customfield3": "boehm.com"
+        },
+        {
+            "customfield1": "Evan Brown",
+            "customfield2": "Caterpie",
+            "customfield3": "daniel.com"
+        },
+        {
+            "customfield1": "Tina Gislason",
+            "customfield2": "Serperior",
+            "customfield3": "cummings.com"
+        },
+        {
+            "customfield1": "Adrianna Collier",
+            "customfield2": "Palossand",
+            "customfield3": "runolfsdottir.org"
+        },
+        {
+            "customfield1": "Madilyn Gutkowski",
+            "customfield2": "Riolu",
+            "customfield3": "legros.com"
+        },
+        {
+            "customfield1": "Juana Witting",
+            "customfield2": "Mewtwo",
+            "customfield3": "wiegand.com"
+        },
+        {
+            "customfield1": "Lue Ankunding",
+            "customfield2": "Mudkip",
+            "customfield3": "schinner.com"
+        },
+        {
+            "customfield1": "Jimmie Kemmer",
+            "customfield2": "Lucario",
+            "customfield3": "konopelski.com"
+        },
+        {
+            "customfield1": "Jeanne Prosacco",
+            "customfield2": "Ponyta",
+            "customfield3": "stiedemann.info"
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "status": "OK",
+    "code": 200,
+    "total": 60,
+    "data": [
+        {
+            "type": "Visa",
+            "number": "5156082856646236",
+            "expiration": "01\/24",
+            "owner": "Moises Bailey"
+        },
+        {
+            "type": "Visa",
+            "number": "2459230827604245",
+            "expiration": "06\/23",
+            "owner": "Richard Schiller"
+        },
+        {
+            "type": "American Express",
+            "number": "4929519122430910",
+            "expiration": "12\/24",
+            "owner": "Jaquelin Beer"
+        },
+        {
+            "type": "MasterCard",
+            "number": "5462970015403177",
+            "expiration": "11\/23",
+            "owner": "Ali Becker"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4716077384540",
+            "expiration": "10\/23",
+            "owner": "Layne Keebler"
+        },
+        {
+            "type": "Visa",
+            "number": "4097704226141227",
+            "expiration": "08\/23",
+            "owner": "Jeffery Lebsack"
+        },
+        {
+            "type": "Visa",
+            "number": "4532570848824943",
+            "expiration": "12\/25",
+            "owner": "Oran Mitchell"
+        },
+        {
+            "type": "Visa",
+            "number": "2655555553338077",
+            "expiration": "02\/25",
+            "owner": "Jamir Nicolas"
+        },
+        {
+            "type": "Visa",
+            "number": "4532554278106336",
+            "expiration": "03\/24",
+            "owner": "Dejuan Jenkins"
+        },
+        {
+            "type": "MasterCard",
+            "number": "2382505752095341",
+            "expiration": "02\/25",
+            "owner": "Karelle Casper"
+        },
+        {
+            "type": "American Express",
+            "number": "4556145593963252",
+            "expiration": "08\/23",
+            "owner": "Hattie Parisian"
+        },
+        {
+            "type": "Visa Retired",
+            "number": "4929318639309331",
+            "expiration": "08\/24",
+            "owner": "Wallace Koch"
+        },
+        {
+            "type": "Visa Retired",
+            "number": "6011555534243503",
+            "expiration": "12\/23",
+            "owner": "Janice Cassin"
+        },
+        {
+            "type": "Visa",
+            "number": "4024007169669446",
+            "expiration": "12\/25",
+            "owner": "Shemar Blick"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4716778057137505",
+            "expiration": "10\/23",
+            "owner": "Lenora King"
+        },
+        {
+            "type": "Visa",
+            "number": "5418717867214516",
+            "expiration": "03\/24",
+            "owner": "Garry Gleason"
+        },
+        {
+            "type": "MasterCard",
+            "number": "5593925970973426",
+            "expiration": "07\/25",
+            "owner": "Duane Trantow"
+        },
+        {
+            "type": "MasterCard",
+            "number": "2664917474023544",
+            "expiration": "01\/24",
+            "owner": "Sven Gutmann"
+        },
+        {
+            "type": "American Express",
+            "number": "4682817548888639",
+            "expiration": "07\/23",
+            "owner": "Furman Bogisich"
+        },
+        {
+            "type": "Visa",
+            "number": "2221558330007564",
+            "expiration": "04\/24",
+            "owner": "Haskell Morissette"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4024007146252480",
+            "expiration": "02\/24",
+            "owner": "Charlotte VonRueden"
+        },
+        {
+            "type": "Visa",
+            "number": "5429527320893971",
+            "expiration": "08\/25",
+            "owner": "Alphonso Fisher"
+        },
+        {
+            "type": "Visa",
+            "number": "4929975792532627",
+            "expiration": "09\/25",
+            "owner": "Josue Abernathy"
+        },
+        {
+            "type": "Visa",
+            "number": "2639967010814569",
+            "expiration": "04\/26",
+            "owner": "Marianne Skiles"
+        },
+        {
+            "type": "Visa",
+            "number": "5541772503820937",
+            "expiration": "02\/25",
+            "owner": "Jensen Goldner"
+        },
+        {
+            "type": "Discover Card",
+            "number": "4532084817652905",
+            "expiration": "03\/25",
+            "owner": "Theron Shields"
+        },
+        {
+            "type": "MasterCard",
+            "number": "2610205141107451",
+            "expiration": "12\/24",
+            "owner": "Minerva Metz"
+        },
+        {
+            "type": "Visa Retired",
+            "number": "4916465382022796",
+            "expiration": "12\/25",
+            "owner": "Mellie Mayer"
+        },
+        {
+            "type": "Visa Retired",
+            "number": "5521439158776889",
+            "expiration": "12\/23",
+            "owner": "Casimer Fay"
+        },
+        {
+            "type": "Visa",
+            "number": "5522475039111721",
+            "expiration": "10\/23",
+            "owner": "Evert Murphy"
+        },
+        {
+            "type": "Visa",
+            "number": "6011196886859289",
+            "expiration": "10\/24",
+            "owner": "Mack Heidenreich"
+        },
+        {
+            "type": "Visa",
+            "number": "4024007116449959",
+            "expiration": "11\/24",
+            "owner": "Annabell Quitzon"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4024007130785321",
+            "expiration": "09\/23",
+            "owner": "Demarcus Reynolds"
+        },
+        {
+            "type": "MasterCard",
+            "number": "2423930391256578",
+            "expiration": "02\/25",
+            "owner": "Keeley Cormier"
+        },
+        {
+            "type": "MasterCard",
+            "number": "6011447726688556",
+            "expiration": "09\/23",
+            "owner": "Connor Thiel"
+        },
+        {
+            "type": "Visa Retired",
+            "number": "4716652303377407",
+            "expiration": "11\/24",
+            "owner": "Dora Mayert"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4024007153688865",
+            "expiration": "11\/25",
+            "owner": "Margie Littel"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4539506207474105",
+            "expiration": "01\/25",
+            "owner": "Gladyce Towne"
+        },
+        {
+            "type": "Discover Card",
+            "number": "4556957922691929",
+            "expiration": "05\/23",
+            "owner": "Garfield Yundt"
+        },
+        {
+            "type": "Visa",
+            "number": "4532872245297875",
+            "expiration": "07\/25",
+            "owner": "Guillermo Lockman"
+        },
+        {
+            "type": "Visa",
+            "number": "4556510998448680",
+            "expiration": "04\/26",
+            "owner": "Edmond Bins"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4532816677981910",
+            "expiration": "11\/23",
+            "owner": "Branson Maggio"
+        },
+        {
+            "type": "Visa",
+            "number": "4539902535403",
+            "expiration": "12\/24",
+            "owner": "Marco Thiel"
+        },
+        {
+            "type": "Visa",
+            "number": "4916447356732584",
+            "expiration": "03\/24",
+            "owner": "Aubree Metz"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4024007140710616",
+            "expiration": "09\/25",
+            "owner": "Marilie Balistreri"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4716475159239",
+            "expiration": "04\/26",
+            "owner": "Trudie Schowalter"
+        },
+        {
+            "type": "Visa",
+            "number": "5419245050487565",
+            "expiration": "07\/24",
+            "owner": "Anibal Jacobs"
+        },
+        {
+            "type": "Visa",
+            "number": "4929406805597886",
+            "expiration": "04\/25",
+            "owner": "Rachel Hintz"
+        },
+        {
+            "type": "American Express",
+            "number": "4024007170507924",
+            "expiration": "04\/25",
+            "owner": "Godfrey Frami"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4485401602377430",
+            "expiration": "08\/24",
+            "owner": "Alisa Green"
+        },
+        {
+            "type": "Visa",
+            "number": "372942690951085",
+            "expiration": "12\/25",
+            "owner": "Amya Schamberger"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4916804090215104",
+            "expiration": "08\/23",
+            "owner": "Shaina Mraz"
+        },
+        {
+            "type": "Visa",
+            "number": "2477972258984871",
+            "expiration": "12\/23",
+            "owner": "Gust Haag"
+        },
+        {
+            "type": "Visa",
+            "number": "2506398742918975",
+            "expiration": "11\/25",
+            "owner": "Drew Hermann"
+        },
+        {
+            "type": "MasterCard",
+            "number": "6011031931382377",
+            "expiration": "07\/25",
+            "owner": "Arno Lakin"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4556857277076926",
+            "expiration": "01\/24",
+            "owner": "Sister Heidenreich"
+        },
+        {
+            "type": "Visa",
+            "number": "2594803946697013",
+            "expiration": "08\/25",
+            "owner": "Lola Bernhard"
+        },
+        {
+            "type": "MasterCard",
+            "number": "2720631691388398",
+            "expiration": "02\/25",
+            "owner": "Romaine Collins"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4916373665215451",
+            "expiration": "01\/24",
+            "owner": "Vivian Rippin"
+        },
+        {
+            "type": "MasterCard",
+            "number": "4716007347283675",
+            "expiration": "07\/23",
+            "owner": "Bridget Carter"
+        }
+    ]
+}
